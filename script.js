@@ -7,7 +7,7 @@ class Animal {
         return this.species1;
     }
 	 makeSound() {
-        console.log("Generic animal sound");
+        console.log("The Siamese makes a sound");
     }
 }
 
